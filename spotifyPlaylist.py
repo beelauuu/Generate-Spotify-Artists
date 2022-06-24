@@ -3,7 +3,7 @@ from spotipy.oauth2 import SpotifyOAuth
 import json
 import numpy as np
 scope = 'playlist-modify-public playlist-modify-private'
-username = 'brian-lau'
+username = 'ENTER USERNAME'
 
 #SET SPOTIPY_CLIENT_ID=
 #SET SPOTIPY_CLIENT_SECRET=
